@@ -19,6 +19,11 @@ I'm an indie full-stack developer from Ukraine. I am currently improving my Web2
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-plain.svg" />
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img align="left" width="30px" style="padding-right:10px" src="https://devicon-website.vercel.app/api/express/original.svg" />
+<img align="left" width="30px" style="padding-right:10px" src="https://devicon-website.vercel.app/api/rust/plain.svg" />
+<img align="left" width="30px" style="padding-right:10px" src="https://icon.icepanel.io/Technology/svg/Tauri.svg" />
+
+
 <br/>
 
 ### 📊 Stats
